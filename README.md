@@ -8,12 +8,7 @@ Currency
 Country
 
 CalendarTable
-www.novyPro.com
-+3
-GitHub
-+3
-www.novyPro.com
-+3
+
 
 Calendar Table Enhancements:
 
